@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863419494341",
+    "project_id": "airishop",
+    "storage_bucket": "airishop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863419494341:android:3055ec44055460d84725ac",
+        "android_client_info": {
+          "package_name": "com.example.todolist_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeC3AffFWh3pvvRBnIMAAeLKGJ2ifP32Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
