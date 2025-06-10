@@ -1,20 +1,37 @@
-<<<<<<< HEAD
-# todolist_apps
+# Todolist App
 
-A new Flutter project.
+## a. Nama
+Erlina Diana Putri
 
-## Getting Started
+## b. Judul Project
+Todolist Apps
 
-This project is a starting point for a Flutter application.
+## c. Deskripsi Fungsionalitas Aplikasi
+Aplikasi ini memungkinkan pengguna untuk:
+- Register akun baru dan login ke dalam aplikasi
+- Melihat dashboard berisi daftar tugas, kalender, dan statistik (total tugas, yang sudah dan belum selesai)
+- Menambahkan tugas (ToDo) dengan menentukan:
+  - Nama tugas
+  - Deadline (tanggal)
+  - Kategori
+- Mengedit atau menghapus tugas yang sudah dibuat
+- Menandai tugas sebagai selesai
+- Logout dari akun dan kembali ke halaman login
 
-A few resources to get you started if this is your first Flutter project:
+## d. Teknologi yang Digunakan
+- Flutter
+- Firebase (untuk autentikasi dan database)
+- UI design dengan pendekatan sederhana dan fungsional
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## e. Cara Menjalankan Aplikasi
+1. Jalankan aplikasi Flutter seperti biasa (flutter run)
+2. Pilih *Register* jika belum memiliki akun
+3. Login menggunakan email dan password
+4. Akses dashboard untuk menambahkan tugas
+5. Tambahkan tugas, pilih deadline, dan kategori
+6. Edit, hapus, atau checklist tugas sesuai kebutuhan
+7. Lihat informasi tugas di halaman dashboard
+8. Logout untuk keluar dari akun
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# todolist
->>>>>>> a11fe2dd6cb0ce7287c0756e27fcaee8fbc6aa1d
+## f. Screenshot UI dan Tampilan
+(Screenshot akan ditambahkan di bawah ini)
