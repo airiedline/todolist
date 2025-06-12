@@ -34,4 +34,4 @@ Aplikasi ini memungkinkan pengguna untuk:
 8. Logout untuk keluar dari akun
 
 ## f. Screenshot UI dan Tampilan
-(Screenshot akan ditambahkan di bawah ini)
+(Screenshot berada di dalam folder images)
